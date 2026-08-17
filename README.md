@@ -1,32 +1,72 @@
-# 👋 Hi, I'm Manoja Nalini Mohanty
+# 👋 Hi there, I'm Manoja Nalini Mohanty
 
-### 🌱 Aspiring Software Developer | Python | Full Stack | Machine Learning
+### 🎓 MCA Graduate | BCA | Full Stack Developer | Problem Solver | Lifelong Learner
 
-🎓 **Bachelor's & Master's in Computer Applications | BCA • MCA**
+---
 
-I’m interested in **Python, Full Stack Development, Machine Learning, APIs, and Databases**. I enjoy learning new technologies and exploring how they can be used to solve real-world problems.
+## 💡 Areas of Interest
 
-As a fresher, I’m looking forward to gaining practical experience, working on meaningful projects, and starting my career in the software industry.
+- 🐍 Python Development
+- 🌐 Full Stack Web Development
+- 🤖 Machine Learning & AI
+- 🔗 REST APIs
+- 🗄️ Database Management
 
-### 💡 Areas of Interest
+---
 
-* 🐍 Python Development
-* 🌐 Full Stack Development
-* 🤖 Machine Learning & AI
-* 🔌 APIs
-* 🗄️ Databases
 ## 🚀 Featured Project
 
 ### ⚖️ Quick Kannon
 
+**A Full-Stack Legal Assistance Platform**
+
 A legal assistance platform designed to help users find and connect with lawyers based on their location and legal requirements.
+
+**Key Features**
+- ✅ Client & Lawyer Dashboards
+- ✅ Secure Authentication using JWT
+- ✅ Location-Based Lawyer Search
+- ✅ RESTful APIs
+- ✅ Real-time Data Management
+
+---
+
 ## 🛠️ Tech Stack
 
-react.js
-nodejs
-expressjs
-mongodb
-mongoose
-jwt
-full-stack
-web-development
+**Frontend**
+- ⚛️ React.js
+- 🟨 JavaScript
+- 🎨 HTML5
+- 🎨 CSS3
+
+**Backend**
+- 🟢 Node.js
+- 🚀 Express.js
+
+**Database**
+- 🍃 MongoDB
+- 🔧 Mongoose
+
+**Tools**
+- 🧪 Postman
+- 📝 VS Code
+- 🔗 Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- Full Stack Development
+- Data Structures & Algorithms
+- AI & Machine Learning
+
+---
+
+## 📂 Featured Repository
+
+### ⚖️ Quick Kannon
+
+Legal assistance platform connecting clients with lawyers.
+
+---

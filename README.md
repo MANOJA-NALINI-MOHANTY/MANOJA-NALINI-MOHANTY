@@ -15,3 +15,18 @@ As a fresher, I’m looking forward to gaining practical experience, working on 
 * 🤖 Machine Learning & AI
 * 🔌 APIs
 * 🗄️ Databases
+## 🚀 Featured Project
+
+### ⚖️ Quick Kannon
+
+A legal assistance platform designed to help users find and connect with lawyers based on their location and legal requirements.
+## 🛠️ Tech Stack
+
+react.js
+nodejs
+expressjs
+mongodb
+mongoose
+jwt
+full-stack
+web-development

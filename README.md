@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Manoja Nalini Mohanty
 
-<!--
-**MANOJA-NALINI-MOHANTY/MANOJA-NALINI-MOHANTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Aspiring Software Developer | Python | Full Stack | Machine Learning
 
-Here are some ideas to get you started:
+🎓 **Bachelor's & Master's in Computer Applications | BCA • MCA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in **Python, Full Stack Development, Machine Learning, APIs, and Databases**. I enjoy learning new technologies and exploring how they can be used to solve real-world problems.
+
+As a fresher, I’m looking forward to gaining practical experience, working on meaningful projects, and starting my career in the software industry.
+
+### 💡 Areas of Interest
+
+* 🐍 Python Development
+* 🌐 Full Stack Development
+* 🤖 Machine Learning & AI
+* 🔌 APIs
+* 🗄️ Databases

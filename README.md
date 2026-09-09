@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm Manoja Nalini Mohanty</h1>
-<h3 align="center">MCA Graduate | BCA | Aspiring Software Developer</h3>
+<div align="center">
 
-<p align="center">
-  <i>"Turning Ideas into Meaningful Solutions" 💜</i>
-</p>
+<img src="./banner.svg" alt="Manoja Nalini Mohanty" width="100%"/>
 
-<p align="center">
-  📍 Bhubaneswar, Odisha &nbsp;|&nbsp; 🎓 Fresher
-</p>
+</div>
+
+<div align="center">
+
+# Manoja Nalini Mohanty
+
+### MCA Graduate&nbsp; | &nbsp;BCA&nbsp; | &nbsp;Aspiring Software Developer
+
+📍 Bhubaneswar, Odisha &nbsp;•&nbsp; 🎓 Fresher
+
+*"Turning Ideas into Meaningful Solutions"* 💜
+
+*"Small steps every day build big dreams"* 💜
+
+</div>
 
 ---
 
@@ -39,7 +48,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 ### 🎓 Education
 
 - **MCA (Master of Computer Applications)** — KIIT University, Bhubaneswar  
-- **BCA (Bachelor of Computer Applications)** — ITER, Bhubaneswar  
+- **BCA (Bachelor of Computer Applications)** — ITER, SOA University, Bhubaneswar  
 
 ---
 
@@ -67,12 +76,14 @@ Law website like Astrotalk for lawyers by location.
   <a href="https://github.com/MANOJA-NALINI-MOHANTY" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/manoja-nalini-mohanty" target="_blank">
+  <a href="https://www.linkedin.com/flagship-web/in/manoja-nalini-mohanty-085a95284/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
   </a>&nbsp;
 </p>
 
-📧 **Email:** manojanalini6@gmail.com  
+📧 **Email:** manojanalinimohanty@gmail.com  
+🐙 **GitHub:** [MANOJA-NALINI-MOHANTY](https://github.com/MANOJA-NALINI-MOHANTY)  
+💼 **LinkedIn:** [Manoja Nalini Mohanty](https://www.linkedin.com/flagship-web/in/manoja-nalini-mohanty-085a95284/)  
 📍 **Location:** Bhubaneswar, Odisha
 
 <p align="center">

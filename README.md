@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoja Nalini Mohanty</h1>
 <h3 align="center">MCA Graduate | BCA | Aspiring Software Developer</h3>
 
-<p align="center">
-  <img src="https://your-image-hosting-link.com/profile.jpg" width="150" height="150" style="border-radius:50%;" alt="Manoja Nalini Mohanty"/>
-</p>
+
 
 <p align="center">
   📍 Bhubaneswar, Odisha &nbsp;|&nbsp; 🎓 Fresher

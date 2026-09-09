@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Manoja Nalini Mohanty" width="100%"/>
+<img src="./banner.svg" alt="Manoja Nalini Mohanty — MCA Graduate, Aspiring Software Developer" width="100%"/>
 
 </div>
 
 <div align="center">
-
-# Manoja Nalini Mohanty
-
-### MCA Graduate&nbsp; | &nbsp;BCA&nbsp; | &nbsp;Aspiring Software Developer
-
-📍 Bhubaneswar, Odisha &nbsp;•&nbsp; 🎓 Fresher
-
-*"Turning Ideas into Meaningful Solutions"* 💜
 
 *"Small steps every day build big dreams"* 💜
 
@@ -24,7 +16,7 @@
 
 I'm Manoja Nalini Mohanty, a passionate and curious computer applications graduate with a strong interest in building practical and user-friendly web applications.
 
-I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills. I believe in creating meaningful solutions that make an impact. 💜
+I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills. I believe in creating meaningful solutions that make an impact.
 
 ---
 
@@ -47,19 +39,19 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 ### 🎓 Education
 
-- **MCA (Master of Computer Applications)** — KIIT University, Bhubaneswar  
-- **BCA (Bachelor of Computer Applications)** — ITER, SOA University, Bhubaneswar  
+- **MCA (Master of Computer Applications)** — KIIT University, Bhubaneswar
+- **BCA (Bachelor of Computer Applications)** — ITER, SOA University, Bhubaneswar
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🩺 Smart Symptom Analysis & Remote Healthcare Assistance Platform
-ML-based symptom analysis with doctor chat/call feature, dataset & research paper.  
+ML-based symptom analysis with doctor chat/call feature, dataset & research paper.
 `Python` `Flask` `ML` `SQL`
 
 #### ⚖️ Quick Kannon
-Law website like Astrotalk for lawyers by location.  
+Law website like Astrotalk for lawyers by location.
 `React` `Node.js` `MongoDB` `MySQL`
 
 ---
@@ -76,14 +68,14 @@ Law website like Astrotalk for lawyers by location.
   <a href="https://github.com/MANOJA-NALINI-MOHANTY" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/flagship-web/in/manoja-nalini-mohanty-085a95284/" target="_blank">
+  <a href="https://www.linkedin.com/in/manoja-nalini-mohanty-085a95284/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
   </a>&nbsp;
 </p>
 
-📧 **Email:** manojanalinimohanty@gmail.com  
-🐙 **GitHub:** [MANOJA-NALINI-MOHANTY](https://github.com/MANOJA-NALINI-MOHANTY)  
-💼 **LinkedIn:** [Manoja Nalini Mohanty](https://www.linkedin.com/flagship-web/in/manoja-nalini-mohanty-085a95284/)  
+📧 **Email:** manojanalinimohanty@gmail.com
+🐙 **GitHub:** [MANOJA-NALINI-MOHANTY](https://github.com/MANOJA-NALINI-MOHANTY)
+💼 **LinkedIn:** [Manoja Nalini Mohanty](https://www.linkedin.com/in/manoja-nalini-mohanty-085a95284/)
 📍 **Location:** Bhubaneswar, Odisha
 
 <p align="center">

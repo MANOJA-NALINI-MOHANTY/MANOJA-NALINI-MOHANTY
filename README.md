@@ -1,184 +1,80 @@
-# 👋 Hi there, I'm Manoja Nalini Mohanty
-
-### 🎓 MCA Graduate | BCA | Full Stack Developer | Problem Solver | Lifelong Learner
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MCA-GRADUATE-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BCA-GRADUATE-00A6A6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-FF69B4?style=for-the-badge" />
-</p>
-
----
-
-## 💡 About Me
-
-I'm a **Computer Applications graduate** with a strong interest in building
-practical and user-friendly web applications.
-
-I enjoy learning new technologies, working on real-world projects, and
-continuously improving my development skills.
-
-- 🎓 **Master of Computer Applications (MCA)**
-- 🎓 **Bachelor of Computer Applications (BCA)**
-- 💻 Interested in **Full Stack Web Development**
-- 🚀 Passionate about building practical projects
-- 🌱 Always learning and improving
-
----
-
-## 🎯 Areas of Interest
+<h1 align="center">Hi 👋, I'm Manoja Nalini Mohanty</h1>
+<h3 align="center">MCA Graduate | BCA | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Management-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-# 🚀 Featured Project
-
-## ⚖️ Quick Kannon
-
-### Full-Stack Legal Assistance Platform
-
-**Quick Kannon** is a legal assistance platform designed to help users
-find and connect with lawyers based on their location and legal requirements.
-
-### ✨ Key Features
-
-- 👤 Client Registration & Login
-- ⚖️ Lawyer Registration & Login
-- 📍 Location-based lawyer discovery
-- 📊 Client Dashboard
-- 📊 Lawyer Dashboard
-- 🔐 JWT-based Authentication
-- 🔗 RESTful APIs
-- 🗄️ MongoDB Database
-- 🔄 Real-time Data Handling
-
-### 🔗 Project Repository
-
-<p align="center">
-  <a href="https://github.com/MANOJA-NALINI-MOHANTY/quick-kannon">
-    <img src="https://img.shields.io/badge/📂%20VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-## 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-## 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-AF0000?style=for-the-badge&logo=mongoose&logoColor=white" />
-</p>
-
-## 🔐 Authentication & API
-
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-007ACC?style=for-the-badge&logo=api&logoColor=white" />
-</p>
-
-## 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-| 💻 Technology | 📚 Focus |
-|---|---|
-| 🐍 Python | Advanced Python |
-| 🧩 DSA | Data Structures & Algorithms |
-| 🌐 Full Stack | Advanced Web Development |
-| 🤖 AI & ML | Machine Learning & AI |
-
----
-
-# 📂 Featured Repositories
-
-### ⚖️ Quick Kannon
-**Online Legal Consultation Platform**
-
-`React.js` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT`
-
-<a href="https://github.com/MANOJA-NALINI-MOHANTY/quick-kannon">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00A6A6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### 🌐 My Portfolio
-
-Personal portfolio website showcasing my skills and projects.
-
-<a href="https://github.com/MANOJA-NALINI-MOHANTY/MY-PORTFOLIO">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00A6A6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANOJA-NALINI-MOHANTY&show_icons=true&theme=tokyonight&hide_border=true" />
+  <i>"Turning Ideas into Meaningful Solutions" 💜</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOJA-NALINI-MOHANTY&theme=tokyonight&hide_border=true" />
+  📍 Bhubaneswar, Odisha &nbsp;|&nbsp; 🎓 Fresher
 </p>
 
 ---
 
-# 🤝 Connect With Me
+### 🚀 About Me
 
-<p align="center">
+I'm Manoja Nalini Mohanty, a passionate and curious computer applications graduate with a strong interest in building practical and user-friendly web applications.
 
-<a href="https://github.com/MANOJA-NALINI-MOHANTY">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills. I believe in creating meaningful solutions that make an impact. 💜
 
-<!-- Add your LinkedIn URL here -->
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-<h3 align="center">
-  ✨ Learning • Building • Growing ✨
-</h3>
+### 🎓 Education
+
+- **MCA (Master of Computer Applications)** — KIIT University, Bhubaneswar  
+- **BCA (Bachelor of Computer Applications)** — ITER, Bhubaneswar  
+
+---
+
+### 🚀 Featured Projects
+
+#### 🩺 Smart Symptom Analysis & Remote Healthcare Assistance Platform
+ML-based symptom analysis with doctor chat/call feature, dataset & research paper.  
+`Python` `Flask` `ML` `SQL`
+
+#### ⚖️ Quick Kannon
+Law website like Astrotalk for lawyers by location.  
+`React` `Node.js` `MongoDB` `MySQL`
+
+---
+
+### 🧰 Skills & Tools
+
+`Python` `Java` `JavaScript` `React` `Node.js` `MongoDB` `HTML` `CSS` `SQL` `Postman` `VS Code` `GitHub`
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/MANOJA-NALINI-MOHANTY" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/manoja-nalini-mohanty" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+  </a>&nbsp;
+</p>
+
+📧 **Email:** manojanalini6@gmail.com  
+📍 **Location:** Bhubaneswar, Odisha
 
 <p align="center">
-  💻 Turning ideas into practical applications
+  <i>✨ Learn · Build · Grow ✨</i>
 </p>

@@ -36,7 +36,7 @@ I enjoy learning new technologies, working on real-world projects, and continuou
 <tr>
 <td align="center">🔗<br><b>REST APIs</b></td>
 <td align="center">🗄️<br><b>Database Management</b></td>
-<td></td>
+<td align="center">🌿<br><b>Version Control (Git & GitHub)</b></td>
 </tr>
 </table>
 
@@ -144,8 +144,8 @@ ML-based symptom analysis & remote healthcare assistance platform
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANOJA-NALINI-MOHANTY&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJA-NALINI-MOHANTY&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=MANOJA-NALINI-MOHANTY&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=MANOJA-NALINI-MOHANTY&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 🔄 Contribution Activity

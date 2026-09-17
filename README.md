@@ -141,12 +141,12 @@ ML-based symptom analysis & remote healthcare assistance platform
 
 ---
 
-### 📊 GitHub Stats
+### 🎮 Fun Facts About Me
 
-<p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=MANOJA-NALINI-MOHANTY&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=MANOJA-NALINI-MOHANTY&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+- ☕ Code fuels me — mostly chai though!
+- 🌙 I do my best debugging late at night
+- 📚 Always got a new tutorial tab open somewhere
+- 🎯 Goal: build something that actually helps people
 
 ### 🔄 Contribution Activity
 

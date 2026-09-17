@@ -151,7 +151,7 @@ ML-based symptom analysis & remote healthcare assistance platform
 ### 🔄 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOJA-NALINI-MOHANTY&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MANOJA-NALINI-MOHANTY&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

@@ -143,10 +143,10 @@ ML-based symptom analysis & remote healthcare assistance platform
 
 ### 🎮 Fun Facts About Me
 
-- ☕ Code fuels me — mostly chai though!
-- 🌙 I do my best debugging late at night
-- 📚 Always got a new tutorial tab open somewhere
-- 🎯 Goal: build something that actually helps people
+- 🧩 I enjoy breaking down complex problems into simple, working code
+- ⚡ I turn bugs into learning opportunities, not frustrations
+- 🏗️ I like building projects end-to-end — from database to UI
+- 📈 Every project I build, I try to make a little better than the last one
 
 ### 🔄 Contribution Activity
 

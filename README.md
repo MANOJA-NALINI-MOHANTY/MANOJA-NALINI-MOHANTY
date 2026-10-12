@@ -64,8 +64,8 @@ Quick Kannon is a legal assistance platform designed to help users find and conn
 
 ---
 
-#### 💓 Smart Symptom Analysis & Remote Healthcare Assistance Platform
-**ML-Based Healthcare Assistance Platform**
+#### 💓 AyurCare
+**AI-Powered Healthcare Consultation Platform**
 
 An ML-based symptom analysis platform with a doctor chat/call feature, complete with dataset and research paper.
 
@@ -75,7 +75,7 @@ An ML-based symptom analysis platform with a doctor chat/call feature, complete 
 - 📚 Custom dataset & research paper
 - 🔗 RESTful APIs
 
-[![View Repository](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MANOJA-NALINI-MOHANTY/smart-symptom-analysis)
+[![View Repository](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/MANOJA-NALINI-MOHANTY/ayurcare)
 
 ---
 
@@ -135,8 +135,8 @@ An ML-based symptom analysis platform with a doctor chat/call feature, complete 
 Online Legal Consultation Platform
 `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
-**💓 [Smart Symptom Analysis](https://github.com/MANOJA-NALINI-MOHANTY/smart-symptom-analysis)**
-ML-based symptom analysis & remote healthcare assistance platform
+**💓 [AyurCare](https://github.com/MANOJA-NALINI-MOHANTY/ayurcare)**
+AI-powered symptom analysis & remote healthcare consultation platform
 `Python` `Flask` `ML` `SQL`
 
 ---
